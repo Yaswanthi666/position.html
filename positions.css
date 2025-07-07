@@ -1,0 +1,23 @@
+container{
+    width: 100px;
+}
+.imagecon,.imagecon1,.imagecon2,.imagecon3,.imagecon4,.imagecon5,.imagecon6,.imagecon7{
+    width: 370px;
+    height: 370px;
+    position: relative;
+    display:inline-block;
+    
+}
+img{
+    width:300px;
+    
+}
+p{
+    color:rgb(212, 203, 203);
+    background-color: rgb(161, 112, 112);
+    padding: 7px;
+    position:absolute;
+    top:0px;
+}
+
+
